@@ -3,3 +3,6 @@ renat
 
 hotfix renat fixed the broken email address
 
+renat на ветке iss53
+git commit -a -m 'finished the new footer [issue 53]'
+
